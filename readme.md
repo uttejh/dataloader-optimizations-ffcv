@@ -5,3 +5,7 @@ to increase data throughput while training with large image datasets.
 
 Loading images with a pytorch dataloader took 1.7 seconds per epoch for CIFAR10 dataset with a batch size of 64. 
 Using the FFCV library, the time was reduced to 0.18 seconds per epoch.
+
+### TODO
+- [ ] Check with augmentations
+- [ ] Try with a 100 GB dataset
